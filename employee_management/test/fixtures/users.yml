@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dob: 2018-07-14
+  email: MyString
+  password_digest: MyString
+  designation: one
+
+two:
+  name: MyString
+  dob: 2018-07-14
+  email: MyString
+  password_digest: MyString
+  designation: two
